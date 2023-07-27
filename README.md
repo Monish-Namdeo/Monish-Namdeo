@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning:**React**
+## 🚀 About Me
+I'm a Full Stack developer...
+- 🌱 I’m currently learning: **React Language**
 
 - 💬 Ask me about: **I'm a Front End Developer and Cyber Security and Ethical Hacker**
 
@@ -44,13 +46,11 @@ Sqlmap, NMAP, msfconsole
 
 - [@Monish-Namdeo](https://github.com/Monish-Namdeo)
 
-## 🚀 About Me
-I'm a Full Stack developer...
 
-## Feedback
-If you have any feedback, please reach out to me at monish12namdeo@gmail.com 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monish-namdeo&show_icons=true&locale=en" alt="monish-namdeo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-namdeo&" alt="monish-namdeo" /></p>
 
+## Feedback
+If you have any feedback, please reach out to me at monish12namdeo@gmail.com 
