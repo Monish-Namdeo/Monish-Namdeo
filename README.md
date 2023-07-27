@@ -2,21 +2,14 @@
 
 I am Full Stack Developer and also a Certified Ethical Hacker <img height="20px" width="20px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />based on Indore, India 🇮🇳 
 
+## 🛠 Coding Skills
+HTML, CSS, Javascript, 
 
+## 🛠 Cyber Security Skills
+Sqlmap, NMAP, msfconsole  
+
+## 🚀 About Me
+I'm a Full Stack developer...
 
 ## Feedback
-If you have any feedback, please reach out to us at monish12namdeo@gmail.com 
-<!--
-**Monish-Namdeo/Monish-Namdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any feedback, please reach out to me at monish12namdeo@gmail.com 
